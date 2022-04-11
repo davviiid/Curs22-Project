@@ -3,6 +3,7 @@ package ro.fasttrackit.curs22.project;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+
 public class BudgetCalculator {
     private static final Scanner keyboard = new Scanner(System.in);
     private static final DecimalFormat df = new DecimalFormat("##.#");
